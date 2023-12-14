@@ -7,7 +7,21 @@ My journey into the world of software development has been driven by
 self-study and formal education (Academlo). I am 28 years old and currently reside 
 in Barranquilla, Colombia.
 
+### 💻 Technical Skills
+
+I possess a diverse skill set in programming and web development:
+
+- **React:** Proficient in building web applications using React.
+- **React native:** Proficient in building applications using React native.
+- **JavaScript:** Proficient in JavaScript, with a strong command of its libraries and frameworks.
+- **Python:** Intermediate level proficiency in Python, enabling me to tackle a wide range of tasks.
+- **HTML and CSS:** Strong skills in HTML and CSS for web development.
+- **GitHub:** Experienced in version control and collaboration through GitHub.
+  
 ### 📖 Education:
+
+FullStack Developer
+  - Academlo 30/06/2023 to 01/12/2023
 
 Bachelor's Degree in Naval Sciences and Maritime Administration:
   - Escuela Naval "Almirante Padilla" 13/01/2014 to 01/12/2017
@@ -15,16 +29,6 @@ Bachelor's Degree in Naval Sciences and Maritime Administration:
 Master's in Business Administration (Ongoing)
   - University of the Coast, Barranquilla, Colombia
   - Pursuing a master's degree in administration on Saturdays, allowing me to balance my academic and professional commitments effectively.
-
-### 💻 Technical Skills
-
-I possess a diverse skill set in programming and web development:
-
-- **JavaScript:** Proficient in JavaScript, with a strong command of its libraries and frameworks.
-- **Python:** Intermediate level proficiency in Python, enabling me to tackle a wide range of tasks.
-- **HTML and CSS:** Strong skills in HTML and CSS for web development.
-- **React:** Proficient in building web applications using React.
-- **GitHub:** Experienced in version control and collaboration through GitHub.
 
 ### 🔈Language Proficiency
 
