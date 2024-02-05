@@ -17,6 +17,8 @@ I possess a diverse skill set in programming and web development:
 - **Python:** Intermediate level proficiency in Python, enabling me to tackle a wide range of tasks.
 - **HTML and CSS:** Strong skills in HTML and CSS for web development.
 - **GitHub:** Experienced in version control and collaboration through GitHub.
+- **TypeScript:** Competent in leveraging TypeScript for code quality and maintainability.
+- **WordPress:** Experienced in WordPress development, enhancing versatility in creating dynamic websites.
   
 ### 📖 Education:
 
