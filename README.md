@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Ricardo Andres Herrera Tapias.
+### 👋 Hi, I’m Ricardo Herrera.
 
 ### 😎 About Me:
 
