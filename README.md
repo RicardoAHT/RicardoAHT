@@ -49,7 +49,6 @@ technology is driven by curiosity and a commitment to improving my skills.
 
 ### Contact Information
 
-- Email: RicardoAHT95@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ricardo-herrera-tapias/
 
 Feel free to reach out to me if you have any questions or would like to connect. 
